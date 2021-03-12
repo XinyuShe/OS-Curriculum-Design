@@ -3,7 +3,7 @@
 
 
 ## Task2
-make
-sudo insmod DevFIFOWithBlock.ko
-lsmod | grep FIFO
+make  
+sudo insmod DevFIFOWithBlock.ko 
+lsmod | grep FIFO 
   
